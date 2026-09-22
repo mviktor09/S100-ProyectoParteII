@@ -30,7 +30,7 @@ Ejecución
 
 El análisis y modelado se encuentran en el notebook del repositorio. Las dependencias utilizadas pueden instalarse con:
 
-pip install pandas numpy matplotlib scikit-learn ucimlrepo
+pip install pandas numpy matplotlib scikit-learn
 
 Luego, ejecutar el notebook de principio a fin.
 
