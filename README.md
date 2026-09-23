@@ -28,7 +28,11 @@ Entrenamiento y comparación de modelos supervisados.
 Evaluación mediante accuracy, precision, recall y F1-score.
 Ejecución
 
-El análisis y modelado se encuentran en el notebook del repositorio. Las dependencias utilizadas pueden instalarse con:
+El análisis y modelado se encuentran en el notebook del repositorio. 
+
+El dataset (diabetic_data.csv) se encuentra en la carpetas datos a un nivel de distancia del notebook.
+
+Las dependencias utilizadas pueden instalarse con:
 
 pip install pandas numpy matplotlib scikit-learn
 
